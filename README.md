@@ -1,4 +1,4 @@
-# Video Classification using Tim
+# Video Classification using TimesFormer
 This repository implements a video classification pipeline using the **TimeSFormer architecture**, trained and evaluated on a 5-class sports dataset containing videos of **Long Jump**, **Javelin Throw**, **Skiing**, **Pole Vault**, and **Horse Riding**.
 
 The notebook includes:
